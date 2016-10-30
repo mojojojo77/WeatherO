@@ -6,7 +6,6 @@
     version     = "0.0.1" >
 
 <!-- versionCode is optional and Android only -->
-
   <name>WeatherO</name>
 
   <description>
@@ -16,5 +15,7 @@
   <author href="" email="arnav.saraf777@gmail.com">
       Arnav Saraf
   </author>
+
+  <icon src="icon1.png" platform="android" width="57" height="57" density="mdpi" />
 
 </widget>
