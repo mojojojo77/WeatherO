@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.mojojojo.weatherO"
+    versionCode = "001"
+    version     = "0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>WeatherO</name>
+
+  <description>
+        Get weather information for any location on the earth
+  </description>
+
+  <author href="" email="arnav.saraf777@gmail.com">
+      Arnav Saraf
+  </author>
+
+</widget>
